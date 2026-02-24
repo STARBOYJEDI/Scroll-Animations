@@ -50,7 +50,10 @@ section {
     transition-delay: 600ms;
 }
 
-
+.logo {
+    padding: 1rem;
+    margin: 0 0.5rem;
+}
 
 
 
